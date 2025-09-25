@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🚀;Apasionado+por+la+tecnología+💻;Siempre+aprendiendo+algo+nuevo+📚;Creando+proyectos+increíbles+✨)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer+🚀;Apasionado+por+la+tecnología+💻;Siempre+aprendiendo+algo+nuevo+📚)
 
 </div>
 

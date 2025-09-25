@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Max
 
 <div align="center">
   
@@ -52,34 +50,6 @@ const desarrollador = {
 
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
-## 📈 Actividad de Contribución
-
-<div align="center">
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VeronMaximo&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ## 🎯 Objetivos Actuales
 
 - 🌱 Actualmente aprendiendo **TypeScript** y **React Native**
@@ -97,6 +67,13 @@ const desarrollador = {
   ![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=brightgreen&style=flat-square&label=Visitas+al+perfil)
 
 </div>
+
+### Badge de Status
+
+```markdown
+![Status](https://img.shields.io/badge/Status-Disponible%20para%20trabajar-brightgreen?style=for-the-badge)
+![Mood](https://img.shields.io/badge/Mood-Coding%20like%20a%20boss-blue?style=for-the-badge)
+```
 
 ---
 

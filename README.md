@@ -1,12 +1,18 @@
 # ¡Hola! 👋 Soy Max
 
+### Matrix Rain
+
+```markdown
+![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+```
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🚀;Apasionado+por+la+tecnología+💻;Siempre+aprendiendo+algo+nuevo+📚;Creando+proyectos+increíbles+✨)
 
 </div>
 
-## 🚀 Sobre mí
+## - Sobre mí -
 
 ```javascript
 const desarrollador = {
@@ -24,7 +30,7 @@ const desarrollador = {
 };
 ```
 
-## 🛠️ Tecnologías & Herramientas
+## - Tecnologías & Herramientas -
 
 <div align="center">
 
@@ -50,7 +56,7 @@ const desarrollador = {
 
 </div>
 
-## 🎯 Objetivos Actuales
+## - Objetivos Actuales -
 
 - 🌱 Actualmente aprendiendo **TypeScript** y **React Native**
 - 👯 Buscando colaborar en proyectos **Open Source**
@@ -58,7 +64,7 @@ const desarrollador = {
 - 📫 Cómo contactarme: **tu.email@gmail.com**
 - ⚡ Dato curioso: **Me encanta resolver problemas complejos con código elegante**
 
-## 💫 Frase Motivacional
+## - Frase Motivacional -
 
 <div align="center">
   

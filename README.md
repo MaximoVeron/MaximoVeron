@@ -1,6 +1,4 @@
-# ¡Hola! 👋 Soy Max
-
-### Matrix Rain
+# ¡Hola! Soy Maxj
 
 <div align="center">
   

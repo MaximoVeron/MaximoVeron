@@ -2,9 +2,11 @@
 
 ### Matrix Rain
 
-```markdown
-![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-```
+<div align="center">
+  
+![Matrix Rain](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+</div>
 
 <div align="center">
   

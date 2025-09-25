@@ -80,15 +80,6 @@ const desarrollador = {
 
 </div>
 
-### Badge de Status
-
-```markdown
-![Status](https://img.shields.io/badge/Status-Disponible%20para%20trabajar-brightgreen?style=for-the-badge)
-![Mood](https://img.shields.io/badge/Mood-Coding%20like%20a%20boss-blue?style=for-the-badge)
-```
-
----
-
 <div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)

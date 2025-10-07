@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Matrix Rain](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Matrix Rain](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l6eG5yYnRseHJ5enBiaWxkNnlkODMzbnNmOGRuemZ1bzI1b3k0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
 
 </div>
 
@@ -18,15 +18,9 @@
 const desarrollador = {
   nombre: "Max",
   ubicacion: "Argentina 🇦🇷",
-  lenguajes: ["JavaScript", "Python"],
-  frameworks: ["React", "Node.js", "Express"],
-  herramientas: ["VS Code", "Git", "MongoDB"],
-  objetivos2024: [
-    "Dominar TypeScript",
-    "Contribuir a Open Source",
-    "Crear mi startup",
-  ],
-  datoCurioso: "Puede programar durante horas con solo café ☕",
+  lenguajes: ["JavaScript", "Python", "TypeScript],
+  frameworks: ["React", "Node.js", "Express", "mongoose"],
+  herramientas: ["VS Code", "Git", "MongoDB", "PHPmyAdmin"],
 };
 ```
 
@@ -51,6 +45,11 @@ const desarrollador = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+<div align="center">
+![mono](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZiYzlmY3RoaTZ5OGw1dmViMDcxczMwZDdvNXZmNTR1ZjVya2oxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGqDsE3owV0RO/giphy.gif)
+</div>
 
 ### Herramientas & Plataformas
 
@@ -59,24 +58,6 @@ const desarrollador = {
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-## - Objetivos Actuales -
-
-- 🌱 Actualmente aprendiendo **TypeScript** y **React Native**
-- 👯 Buscando colaborar en proyectos **Open Source**
-- 💬 Pregúntame sobre **JavaScript, React, Node.js**
-- 📫 Cómo contactarme: **tu.email@gmail.com**
-- ⚡ Dato curioso: **Me encanta resolver problemas complejos con código elegante**
-
-## - Frase Motivacional -
-
-<div align="center">
-  
-  > "El código es poesía escrita en un lenguaje que las máquinas pueden entender" 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=brightgreen&style=flat-square&label=Visitas+al+perfil)
 
 </div>
 

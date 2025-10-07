@@ -2,13 +2,13 @@
 
 <div align="center">
   
-![Matrix Rain](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l6eG5yYnRseHJ5enBiaWxkNnlkODMzbnNmOGRuemZ1bzI1b3k0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
+![The Office](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkOXozYXRkbzFpbm5ncXNrazQ2NWJ0NmYzODhlYjVpbTU3dmZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4YPXOIVxBOlHPJTbCY/giphy.gif)
 
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer+🚀;Apasionado+por+la+tecnología+💻;Siempre+aprendiendo+algo+nuevo+📚)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer;Apasionado+por+la+tecnología)
 
 </div>
 

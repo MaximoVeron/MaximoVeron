@@ -47,9 +47,7 @@ const desarrollador = {
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-<div align="center">
 ![mono](https://i.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
-</div>
 
 ### Herramientas & Plataformas
 

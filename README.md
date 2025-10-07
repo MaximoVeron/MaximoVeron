@@ -48,7 +48,7 @@ const desarrollador = {
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 <div align="center">
-![mono](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZiYzlmY3RoaTZ5OGw1dmViMDcxczMwZDdvNXZmNTR1ZjVya2oxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGqDsE3owV0RO/giphy.gif)
+![mono](https://i.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
 </div>
 
 ### Herramientas & Plataformas

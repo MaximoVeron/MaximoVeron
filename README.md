@@ -1,11 +1,5 @@
 <div align="center">
   
-![The Office](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkOXozYXRkbzFpbm5ncXNrazQ2NWJ0NmYzODhlYjVpbTU3dmZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4YPXOIVxBOlHPJTbCY/giphy.gif)
-
-</div>
-
-<div align="center">
-  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer;Apasionado+por+la+tecnología)
 
 </div>
@@ -16,9 +10,9 @@
 const desarrollador = {
   nombre: "Max",
   ubicacion: "Argentina 🇦🇷",
-  lenguajes: ["JavaScript", "Python", "TypeScript],
-  frameworks: ["React", "Node.js", "Express", "mongoose"],
-  herramientas: ["VS Code", "Git", "MongoDB", "PHPmyAdmin"],
+  lenguajes: ["JavaScript", "Python", "TypeScript"],
+  Desarrollo: ["React", "Node.js"],
+  DBs: ["MongoDB", "mysql","PostgreSQL"],
 };
 ```
 
